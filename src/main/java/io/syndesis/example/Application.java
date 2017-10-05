@@ -8,6 +8,8 @@ public class Application {
 
     /**
      * A main method to start this application.
+     *
+     * CHANGE ME HERE
      */
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
