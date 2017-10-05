@@ -4,6 +4,8 @@
 
 ## Running
 
+Trigger 
+
 To run this on OpenShift, just run:
 
 ```bash
